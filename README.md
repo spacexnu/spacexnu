@@ -25,4 +25,4 @@ GPG Key fingerprint: 07D7 0FDB CC44 6C19 CA43  02CE 6D5F 1A78 F1DC 361D
 - Twitter: https://x.com/spacexnu
 - Linkedin: https://www.linkedin.com/in/adlermedrado
 
-![Profile Views](https://komarev.com/ghpvc/?username=adlermedrado)
+![Profile Views](https://komarev.com/ghpvc/?username=spacexnu)
