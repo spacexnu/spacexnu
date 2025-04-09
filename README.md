@@ -1,5 +1,7 @@
 ### Hello there 👋
 
+This account was formerly known as adlermedrado.
+
 Software Engineer with 20+ years of experience in Python, Java, PHP, Blockchain and Cybersecurity. 
 
 I started my journey building a BBS with MS-DOS and have since evolved to develop scalable and secure solutions for startups and large companies. 
