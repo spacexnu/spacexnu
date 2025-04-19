@@ -1,30 +1,38 @@
-### Hello there 👋
+# 👾 spacexnu
 
-This account was formerly known as adlermedrado.
+> Formerly known as `adlermedrado`. Same brain, new identity.  
+> Building tools for the post-AI era.
 
-Software Engineer with 20+ years of experience in Python, Java, PHP, Blockchain and Cybersecurity. 
+---
 
-I started my journey building a BBS with MS-DOS and have since evolved to develop scalable and secure solutions for startups and large companies. 
+### 👨‍💻 Software Engineer | 20+ years coding | Real Security, Practical AI, Decentralized Systems
 
-A self-taught professional with a solid understanding of emerging technologies such as Blockchain, as well as expertise in distributed systems and digital security. 
+Started on a BBS running MS-DOS. Never stopped building.  
+Today I design and ship systems that resist — scalable, secure, and censorship-resistant by default.
 
-Skilled at solving complex problems and collaborating with talented teams. 
+Self-taught. Low-level curious. Privacy defender.  
+Not interested in hype. Only in code that survives the next wave.
 
-Quickly able to learn new technologies and apply effective solutions.
+---
 
-GPG Key fingerprint: 07D7 0FDB CC44 6C19 CA43  02CE 6D5F 1A78 F1DC 361D
+### 🔧 Projects in focus
 
-#### 👨🏻‍💻 Check out what I'm currently working on
+- 🔍 [`ShadowData`](https://github.com/spacexnu/ShadowData) — Sensitive data detection with NLP + ML
+- 🛡️ [`log-analyzer`](https://github.com/spacexnu/log-analyzer) — Real-time threat detection using logs + Prometheus + Loki
+- ⚙️ [`job_finder`](https://github.com/spacexnu/job_finder) — CLI tool for scraping tech job listings fast
 
-- [spacexnu/ShadowData](https://github.com/spacexnu/ShadowData)
-- [spacexnu/job_finder](https://github.com/spacexnu/job_finder)
-- [spacexnu/log-analyzer](https://github.com/spacexnu/log-analyzer)
+---
 
+### 🔐 GPG Key
 
-#### 📫 How to reach me
+`07D7 0FDB CC44 6C19 CA43 02CE 6D5F 1A78 F1DC 361D`
 
-- Personal Website: https://adlermedrado.com.br
-- Twitter: https://x.com/spacexnu
-- Linkedin: https://www.linkedin.com/in/adlermedrado
+---
+
+### 📡 Connect
+
+- 🌐 Website: [adlermedrado.com.br](https://adlermedrado.com.br)
+- 🔗 LinkedIn: [in/adlermedrado](https://www.linkedin.com/in/adlermedrado)
+- 🐦 Twitter/X: [@spacexnu](https://x.com/spacexnu)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=spacexnu)
