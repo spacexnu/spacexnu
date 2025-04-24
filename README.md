@@ -34,5 +34,3 @@ Not interested in hype. Only in code that survives the next wave.
 - 🌐 Website: [adlermedrado.com.br](https://adlermedrado.com.br)
 - 🔗 LinkedIn: [in/adlermedrado](https://www.linkedin.com/in/adlermedrado)
 - 🐦 Twitter/X: [@spacexnu](https://x.com/spacexnu)
-
-![Profile Views](https://komarev.com/ghpvc/?username=spacexnu)
