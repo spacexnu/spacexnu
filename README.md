@@ -17,6 +17,7 @@ Not interested in hype. Only in code that survives the next wave.
 
 ### 🔧 Projects in focus
 
+- 🔐 [`SovereignRAG`](https://github.com/spacexnu/sovereign-rag) - Sovereign Retrieval Augmented Generation for Secure Code Analysis
 - 🔍 [`ShadowData`](https://github.com/spacexnu/ShadowData) — Sensitive data detection with NLP + ML
 - 🛡️ [`log-analyzer`](https://github.com/spacexnu/log-analyzer) — Real-time threat detection using logs + Prometheus + Loki
 - ⚙️ [`job_finder`](https://github.com/spacexnu/job_finder) — CLI tool for scraping tech job listings fast
