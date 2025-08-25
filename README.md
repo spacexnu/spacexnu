@@ -1,6 +1,6 @@
 # 👾 spacexnu
 
-> Formerly known as `adlermedrado`. Same brain, new identity.  
+> Alson known as `adlermedrado` or `amedrado`. 
 > Building tools for the post-AI era.
 
 ---
