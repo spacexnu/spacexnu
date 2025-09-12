@@ -8,9 +8,11 @@
 ### 👨‍💻 Software Engineer | 20+ years coding | Real Security, Practical AI, Decentralized Systems
 
 Started on a BBS running MS-DOS and never stopped building.
+
 Today I design and ship systems that endure — scalable, secure, and censorship-resistant by default.
 
 Self-taught, low-level curious, privacy defender.
+
 Not chasing hype, only code that survives the next wave.
 
 GPG-signed commits never lie.
