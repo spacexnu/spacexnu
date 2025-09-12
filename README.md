@@ -14,6 +14,7 @@ Self-taught, low-level curious, privacy defender.
 Not chasing hype, only code that survives the next wave.
 
 GPG-signed commits never lie.
+
 ---
 
 ### 🔧 Projects in focus
