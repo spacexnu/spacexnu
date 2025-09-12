@@ -7,12 +7,13 @@
 
 ### 👨‍💻 Software Engineer | 20+ years coding | Real Security, Practical AI, Decentralized Systems
 
-Started on a BBS running MS-DOS. Never stopped building.  
-Today I design and ship systems that resist — scalable, secure, and censorship-resistant by default.
+Started on a BBS running MS-DOS and never stopped building.
+Today I design and ship systems that endure — scalable, secure, and censorship-resistant by default.
 
-Self-taught. Low-level curious. Privacy defender.  
-Not interested in hype. Only in code that survives the next wave.
+Self-taught, low-level curious, privacy defender.
+Not chasing hype, only code that survives the next wave.
 
+GPG-signed commits never lie.
 ---
 
 ### 🔧 Projects in focus
