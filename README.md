@@ -25,7 +25,7 @@ GPG-signed commits never lie.
 - 🔍 [`ShadowData`](https://github.com/spacexnu/ShadowData) — Sensitive data detection with NLP + ML
 - 🛡️ [`log-analyzer`](https://github.com/spacexnu/log-analyzer) — Real-time threat detection using logs + Prometheus + Loki
 - ⚙️ [`job_finder`](https://github.com/spacexnu/job_finder) — CLI tool for scraping tech job listings fast
-- 🎬 [`job_finder`](https://github.com/spacexnu/shortificator) — A local CLI tool that generates shorts from longer videos using AI
+- 🎬 [`shortificator`](https://github.com/spacexnu/shortificator) — A local CLI tool that generates shorts from longer videos using AI
 ---
 
 ### 🔐 GPG Key
