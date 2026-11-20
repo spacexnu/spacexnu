@@ -1,7 +1,7 @@
 # 👾 spacexnu
 
-> Alson known as `adlermedrado` or `amedrado`. 
-> Also known as adlermedrado or amedrado. Building technology on my own terms.
+> Also known as `adlermedrado` or `amedrado`. 
+> Building technology on my own terms.
 
 ---
 
