@@ -1,17 +1,23 @@
 # 👾 spacexnu
 
 > Alson known as `adlermedrado` or `amedrado`. 
-> Building tools for the post-AI era.
+> Also known as adlermedrado or amedrado. Building technology on my own terms.
 
 ---
 
-### 👨‍💻 Software Engineer | 20+ years coding | Real Security, Practical AI, Decentralized Systems
+### 👨‍💻 Software Engineer | 30+ years of code. Still building.
 
-Started on a BBS running MS-DOS and never stopped building.
+Writing code since the mid-1990s. Over 20 years of professional software engineering.
+
+Started in the MS-DOS and BBS era. Never stopped building.
 
 Today I design and ship systems that endure — scalable, secure, and censorship-resistant by default.
 
+Real Security. Practical AI. Decentralized Systems.
+
 Self-taught, low-level curious, privacy defender.
+
+Technologies change. Engineering principles endure.
 
 GPG-signed commits never lie.
 
